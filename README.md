@@ -19,12 +19,12 @@ pip install numpy
 pip install opencv-python
 ```
 
+Checklist:
+- [x] Install Python
+- [x] Install Libraries
 
-1. First list item
-   - First nested list item
-     - Second nested list item
+Use this command to run the code:  
+```
+python eme.py
+```
 
-
-- [x] Finish my changes
-- [ ] Push my commits to GitHub
-- [ ] Open a pull request
